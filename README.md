@@ -253,17 +253,13 @@ Production starter template
 
 Learning advanced React patterns
 
-🚀 Live Preview (Optional)
-
-(Add deployed link here)
-
-https://velora-cart.vercel.app
+🚀 Live Preview
+https://mini-zeo.vercel.app
 ⭐ Support
 
 If you like this project, consider giving it a star ⭐ on GitHub.
 
 
----
 
-If you want, I can also create a **GitHub-level premium README with badges, screenshots, and live demo section** that looks like top open-source projects.
+
 
